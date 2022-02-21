@@ -1,0 +1,17 @@
+.tb1{
+    width: 500px;
+    color: black;
+}
+
+.tb1 th {
+    background-color: orange;
+    color: white;
+}
+.dong2{
+    float: right;
+    color: blue;
+}
+.tbn{
+
+    color: red;
+}
